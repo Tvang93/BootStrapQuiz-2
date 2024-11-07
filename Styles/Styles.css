@@ -6,3 +6,9 @@
     height: 200px;
     background-color: #D9D9D9;
 }
+
+.carousel-img {
+    width: 50.73125em;
+    height: 42.5625em;
+    object-fit:cover;
+}
